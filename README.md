@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jakaria Kollol</h1>
+<h1 align="center">Hi, I'm Jakaria Kollol</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh.</h3>
 
 - 🔭 I’m currently Studying on **Software Engineer**
