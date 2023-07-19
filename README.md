@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Studying on **Software Engineer**
 
-- 💬 Ask me about **Data Analytics,Microsoft Power BI, SQL**
+- 💬 Ask me about **Data Analytics,Microsoft Power BI, SQL, R, Automation Testing**
 
 - 📫 How to reach me **jakaria.kollol@outlook.com**
 
