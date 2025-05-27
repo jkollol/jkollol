@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Jakaria Kollol</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh.</h3>
+<h3 align="center">A junior data analyst from Bangladesh.</h3>
 
 - 🔭 I’m currently Studying on **Software Engineer**
 
-- 💬 Ask me about **Data Analytics,Microsoft Power BI, SQL, R, Automation Testing**
+ 💬 Ask me about **Data Analytics,Microsoft Power BI, SQL, R, Automation Testing**
 
 - 📫 How to reach me **jakaria.kollol@outlook.com**
+Hi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
